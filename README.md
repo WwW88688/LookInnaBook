@@ -1,2 +1,3 @@
-# tryOne
-没什么好说的
+# comp 3005 Look Inna Book Project
+
+only implemented some SQL stuff
